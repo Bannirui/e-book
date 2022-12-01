@@ -12,8 +12,8 @@ books
 
 ### [网络](网络)
 
-| 书名               |                       豆瓣评分                       |                           操作                            |
-|------------------|:------------------------------------------------:|:-------------------------------------------------------:|
-| 计算机网络(第七版)       | [9.0](https://book.douban.com/subject/26960678/) |    [![](./.asserts/download.png)](网络/计算机网络(第七版).pdf)    |
-| 图解HTTP           | [8.1](https://book.douban.com/subject/25863515/) |    [![](./.asserts/download.png)](网络/图解HTTP%20.pdf)     |
-| 计算机网络-自顶向下方法-第6版 | [8.9](https://book.douban.com/subject/26176870/) | [![](./.asserts/download.png)](网络/计算机网络-自顶向下方法-第6版.pdf) |
+| 书名         |                       豆瓣评分                       |                        操作                         |
+|------------|:------------------------------------------------:|:-------------------------------------------------:|
+| 计算机网络(第七版) | [9.0](https://book.douban.com/subject/26960678/) | [![](./.asserts/download.png)](网络/计算机网络(第七版).pdf) |
+| 图解HTTP     | [8.1](https://book.douban.com/subject/25863515/) | [![](./.asserts/download.png)](网络/图解HTTP%20.pdf)  |
+| 计算机网络-系统方法 | [8.6](https://book.douban.com/subject/1225935/)  | [![](./.asserts/download.png)](网络/计算机网络-系统方法.pdf) |
