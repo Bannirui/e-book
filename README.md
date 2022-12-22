@@ -18,3 +18,4 @@ books
 | 图解HTTP     | [8.1](https://book.douban.com/subject/25863515/) | [![](./.asserts/download.png)](网络/图解HTTP%20.pdf)  |
 | 计算机网络-系统方法 | [8.6](https://book.douban.com/subject/1225935/)  | [![](./.asserts/download.png)](网络/计算机网络-系统方法.pdf) |
 | 网络是怎样连接的   | [9.2](https://book.douban.com/subject/26941639/) |  [![](./.asserts/download.png)](网络/网络是怎样连接的.pdf)  |
+| HTTP权威指南   | [8.6](https://book.douban.com/subject/10746113/) |  [![](./.asserts/download.png)](网络/HTTP权威指南.pdf)  |
