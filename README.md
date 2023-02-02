@@ -9,6 +9,7 @@ books
 | 程序是怎样跑起来的        |    [![](./.asserts/download.png)](计算机系统/程序是怎样跑起来的.pdf)     |
 | 程序员的自我修养—链接、装载与库 | [![](./.asserts/download.png)](计算机系统/程序员的自我修养—链接、装载与库.pdf) |
 | 计算机是怎样跑起来的       |    [![](./.asserts/download.png)](计算机系统/计算机是怎样跑起来的.pdf)    |
+| 计算机组成与设计         | [![](./.asserts/download.png)](计算机系统/计算机组成与设计：硬件、软件接口.pdf) |
 
 ### [Netty](netty)
 
