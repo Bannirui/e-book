@@ -11,6 +11,7 @@ books
 | 大型网站技术架构-核心原理与案例分析           |      [![](./.asserts/download.png)](分布式/大型网站技术架构-核心原理与案例分析.pdf)      |
 | 大型网站系统与JAVA中间件实践             |       [![](./.asserts/download.png)](分布式/大型网站系统与JAVA中间件实践.pdf)       |
 | 分布式操作系统-原理与实践                |        [![](./.asserts/download.png)](分布式/分布式操作系统-原理与实践.pdf)         |
+| 分布式计算的安全原理                   |          [![](./.asserts/download.png)](分布式/分布式计算的安全原理.pdf)          |     
 
 ### [编译原理](编译原理)
 
